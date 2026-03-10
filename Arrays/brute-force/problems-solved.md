@@ -79,7 +79,7 @@ Try these with brute force first, then optimize:
 ---
 
 *part of DSA-patterns-Documentation-Arrays *
-*Next:[Single Pass Traversal](DSA-patterns-Documentation/Arrays/single-pass-traversal)
+*Next:[Single Pass Traversal](../single-pass-traversal/README.md)
 
 ---
 
