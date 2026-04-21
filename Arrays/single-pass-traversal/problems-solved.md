@@ -43,7 +43,7 @@
 
 
 *Part of DSA-patterns-Documentation-Arrays*
-*Next:[Two Pointers](../two-pointers/README.md)*
+*Next:[Two Pointers](../prefix-sum/README.md)*
 
 ---
 ## Changelog
