@@ -6,10 +6,12 @@ This repository documents my learning journey in Data Structures and Algorithms 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
