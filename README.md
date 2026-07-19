@@ -26,4 +26,12 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
