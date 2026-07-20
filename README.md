@@ -8,6 +8,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,10 +19,12 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## String
 |  |
 | ------- |
