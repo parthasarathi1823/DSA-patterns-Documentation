@@ -33,6 +33,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
