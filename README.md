@@ -7,6 +7,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -50,4 +51,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
