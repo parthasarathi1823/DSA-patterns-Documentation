@@ -8,6 +8,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
+| [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -20,12 +21,14 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 ## String
@@ -55,4 +58,12 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
