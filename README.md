@@ -20,6 +20,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
@@ -66,4 +67,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
