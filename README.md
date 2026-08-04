@@ -36,6 +36,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
