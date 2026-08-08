@@ -8,6 +8,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
@@ -15,6 +16,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -90,4 +92,20 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
