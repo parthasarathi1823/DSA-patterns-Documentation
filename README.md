@@ -111,5 +111,6 @@ This repository documents my learning journey in Data Structures and Algorithms 
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
