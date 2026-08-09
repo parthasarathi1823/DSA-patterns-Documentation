@@ -108,4 +108,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
