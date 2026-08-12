@@ -66,6 +66,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
