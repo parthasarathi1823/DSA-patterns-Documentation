@@ -28,6 +28,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -36,6 +37,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## String
 |  |
@@ -80,6 +82,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
 ## String Matching
 |  |
 | ------- |
@@ -117,4 +120,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0182-duplicate-emails](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0183-customers-who-never-order) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
