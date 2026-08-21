@@ -70,6 +70,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0009-palindrome-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +126,12 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
