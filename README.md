@@ -8,6 +8,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | ------- |
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
@@ -135,4 +136,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
