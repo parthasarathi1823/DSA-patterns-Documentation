@@ -11,6 +11,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0136-single-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
 | [0456-132-pattern](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
