@@ -14,6 +14,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0485-max-consecutive-ones](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0001-two-sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0169-majority-element) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
@@ -141,4 +144,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0136-single-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
