@@ -41,6 +41,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 ### Conventions
 
 - **One problem → one path** (primary pattern/topic only)
+- Problem folders: `problems/<topic>/NNNN-kebab-slug/` (e.g. `problems/stack/0020-valid-parentheses/`)
 - Pattern folders store notes + templates; they link to solutions, they don’t duplicate them
 - Prefer `template.py` and `problems-solved.md` naming
 
