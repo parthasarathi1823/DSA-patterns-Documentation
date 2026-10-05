@@ -34,6 +34,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0503-next-greater-element-ii](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
+| [1544-make-the-string-great](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1544-make-the-string-great) |
 ## Linked List
 |  |
 | ------- |
