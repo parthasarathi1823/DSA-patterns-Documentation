@@ -35,6 +35,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0901-online-stock-span](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1544-make-the-string-great) |
+| [3174-clear-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ This repository documents my learning journey in Data Structures and Algorithms 
 | [0058-length-of-last-word](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0058-length-of-last-word) |
 | [0402-remove-k-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0402-remove-k-digits) |
 | [1544-make-the-string-great](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1544-make-the-string-great) |
+| [3174-clear-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -150,4 +152,8 @@ This repository documents my learning journey in Data Structures and Algorithms 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
