@@ -57,6 +57,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | [0136-single-number](problems/bit_manipulation/0136-single-number) |
 | [0169-majority-element](problems/arrays/0169-majority-element) |
 | [0414-third-maximum-number](problems/arrays/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](problems/stack/0456-132-pattern) |
 | [0485-max-consecutive-ones](problems/arrays/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](problems/stack/0496-next-greater-element-i) |
@@ -68,6 +69,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | ------- |
 | [0001-two-sum](problems/arrays/0001-two-sum) |
 | [0169-majority-element](problems/arrays/0169-majority-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](problems/stack/0496-next-greater-element-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](problems/arrays/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
