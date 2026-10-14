@@ -53,6 +53,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 |  |
 | ------- |
 | [0001-two-sum](problems/arrays/0001-two-sum) |
+| [0015-3sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0015-3sum) |
 | [0066-plus-one](problems/arrays/0066-plus-one) |
 | [0136-single-number](problems/bit_manipulation/0136-single-number) |
 | [0169-majority-element](problems/arrays/0169-majority-element) |
@@ -113,6 +114,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](problems/linked_list/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](problems/arrays/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Recursion
@@ -154,6 +156,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0015-3sum) |
 | [0169-majority-element](problems/arrays/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](problems/arrays/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
