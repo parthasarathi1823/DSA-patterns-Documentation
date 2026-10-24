@@ -4,73 +4,200 @@
 
 ## Problem
 
-You are given an integer array nums of length n.
+Biweekly Contest 194
+Biweekly Contest 194
 
-An index i is called a peak if all of the following conditions hold:
+01:01:44
 
-0 < i < n - 1
+parthasarathiAccess all features with our Premium subscription!
 
-nums[i] > nums[i - 1]
+My Lists
 
-nums[i] > nums[i + 1]
+Favorites
 
-An index i is called a valley if all of the following conditions hold:
+Notebook
 
-0 < i < n - 1
+Progress
 
-nums[i] < nums[i - 1]
+Points
 
-nums[i] < nums[i + 1]
+Try New Features
 
-Return an integer denoting the difference between the sum of all peak values and the sum of all valley values.
+Orders
 
-Example 1:
+My Playgrounds
 
-Input: nums = [1,5,2,4,1,3,0]
+Settings
 
-Output: 9
+Appearance
 
-Explanation:
+Appearance
 
-The peak values are nums[1] = 5, nums[3] = 4, and nums[5] = 3.
+System Default
 
-The valley values are nums[2] = 2 and nums[4] = 1.
+Light
 
-The difference between the sum of the peak values and the sum of the valley values is (5 + 4 + 3) - (2 + 1) = 9. Hence, the answer is 9.
+Dark
 
-Example 2:
+Sign Out
 
-Input: nums = [-5,-6,-1,-2,5,3,2]
+System Default
 
-Output: 12
+Light
 
-Explanation:
+Dark
 
-The peak values are nums[2] = -1 and nums[4] = 5.
+Description
+Description
 
-The valley values are nums[1] = -6 and nums[3] = -2.
+Accepted
+Accepted
 
-The difference between the sum of the peak values and the sum of the valley values is (-1 + 5) - (-6 + (-2)) = 12. Hence, the answer is 12.
+Submissions
+Submissions
 
-Example 3:
+Code
+Code
 
-Input: nums = [6,5,2,5,5,3,6]
+Testcase
+Testcase
 
-Output: -5
+Test Result
+Test Result
 
-Explanation:
+Penalty Time
 
-There are no peak values in the array.
+Accepted
+a few seconds ago
 
-The valley values are nums[2] = 2 and nums[5] = 3.
+Python3
 
-The difference between the sum of the peak values and the sum of the valley values is (0) - (2 + 3) = -5. Hence, the answer is -5.
+--
 
-Constraints:
+99
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
 
-3 <= n == nums.length <= 100
+›
+⌄
+⌄
+⌄
+⌄
+⌄
+⌄
 
--100 <= nums[i] <= 100
+class Solution:
+def peakValleyDifference(self, nums: list[int]) -> int:
+if not nums:
+return none
+
+peak = valley = 0
+
+# if nums[0]>nums[1]:
+#     peak+=nums[0]
+# else:
+#     valley+=nums[0]
+
+# if nums[-1]>nums[-2]:
+#     peak+=nums[-1]
+# else:
+# valley+=nums[-1]
+
+for i in range(1,len(nums)-1):
+
+if nums[i]>nums[i-1] and nums[i]>nums[i+1]:
+peak+=nums[i]
+
+if nums[i]<nums[i-1] and nums[i]<nums[i+1]:
+valley+=nums[i]
+
+return peak-valley
+
+In the editor, Tab inserts indentation. Press Ctrl+M to toggle whether Tab moves focus out of the editor. Press Ctrl+' to run the code. Press Ctrl+Enter to submit.
+
+Restored from localUpgrade to Cloud Saving
+Ln 1, Col 1
+
+You must run your code first
+
+All Submissions
+
+Accepted1000 / 1000 testcases passed
+
+parthasarathi
+submitted at Oct 24, 2026 20:27
+
+Runtime
+
+2ms
+
+Memory
+
+19.18MB
+
+Code
+Python3
+
+1class Solution:
+2    def peakValleyDifference(self, nums: list[int]) -> int:
+3        if not nums:
+4            return none
+5
+6        peak = valley = 0
+7
+8        # if nums[0]>nums[1]:
+9        #     peak+=nums[0]
+10        # else:
+11        #     valley+=nums[0]
+12
+13
+14        # if nums[-1]>nums[-2]:
+15        #     peak+=nums[-1]
+16        # else:
+17            # valley+=nums[-1]
+18
+19
+20        for i in range(1,len(nums)-1):
+21
+22            if nums[i]>nums[i-1] and nums[i]>nums[i+1]:
+23                peak+=nums[i]
+24
+25            if nums[i]<nums[i-1] and nums[i]<nums[i+1]:
+26                valley+=nums[i]
+27
+28        return peak-valley
+
+View more
+
+FindHeaderBarSize
+FindTabBarSize
+FindBorderBarSize
 
 ## Problem Link
 
