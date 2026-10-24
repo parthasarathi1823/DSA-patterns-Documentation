@@ -198,3 +198,20 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | ------- |
 | [3174-clear-digits](problems/stack/3174-clear-digits) |
 <!---LeetCode Topics End-->
+
+<!-- DSA-GRINDHUB:START -->
+
+## 📊 Progress
+
+**Total Solved: 1**
+
+| Topic | Solved |
+| --- | ---: |
+| Other | 1 |
+
+## Other
+
+<!-- DSA-GRINDHUB:ENTRY %7B%22platform%22%3A%22leetcode%22%2C%22problemIdentifier%22%3A%22101196%22%2C%22topic%22%3A%22Other%22%7D -->
+- [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/)
+
+<!-- DSA-GRINDHUB:END -->
