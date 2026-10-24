@@ -1,0 +1,28 @@
+class Solution:
+    def peakValleyDifference(self, nums: list[int]) -> int:
+        if not nums:
+            return none
+
+        peak = valley = 0
+
+        # if nums[0]>nums[1]:
+        #     peak+=nums[0]
+        # else:
+        #     valley+=nums[0]
+
+
+        # if nums[-1]>nums[-2]:
+        #     peak+=nums[-1]
+        # else:
+            # valley+=nums[-1]
+
+
+        for i in range(1,len(nums)-1):
+
+            if nums[i]>nums[i-1] and nums[i]>nums[i+1]:
+                peak+=nums[i]
+
+            if nums[i]<nums[i-1] and nums[i]<nums[i+1]:
+                valley+=nums[i]
+
+        return peak-valley
