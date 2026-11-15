@@ -100,6 +100,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | ------- |
 | [0020-valid-parentheses](problems/stack/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](problems/arrays/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](problems/arrays/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0168-excel-sheet-column-title) |
 | [0402-remove-k-digits](problems/stack/0402-remove-k-digits) |
@@ -129,6 +130,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 |  |
 | ------- |
 | [0009-palindrome-number](problems/arrays/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0043-multiply-strings) |
 | [0066-plus-one](problems/arrays/0066-plus-one) |
 | [0070-climbing-stairs](problems/math/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0168-excel-sheet-column-title) |
@@ -196,6 +198,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0043-multiply-strings) |
 | [3174-clear-digits](problems/stack/3174-clear-digits) |
 <!---LeetCode Topics End-->
 
