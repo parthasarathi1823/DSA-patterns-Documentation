@@ -63,6 +63,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | [0485-max-consecutive-ones](problems/arrays/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](problems/stack/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](problems/stack/0503-next-greater-element-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](problems/arrays/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](problems/stack/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
@@ -134,6 +135,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | [0066-plus-one](problems/arrays/0066-plus-one) |
 | [0070-climbing-stairs](problems/math/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0168-excel-sheet-column-title) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | ------- |
 | [0155-min-stack](problems/stack/0155-min-stack) |
 | [0901-online-stock-span](problems/stack/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1352-product-of-the-last-k-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +182,7 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 |  |
 | ------- |
 | [0901-online-stock-span](problems/stack/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1352-product-of-the-last-k-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -200,6 +204,10 @@ problems/     → What did I solve? (one folder per LeetCode problem)
 | ------- |
 | [0043-multiply-strings](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/0043-multiply-strings) |
 | [3174-clear-digits](problems/stack/3174-clear-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/parthasarathi1823/DSA-patterns-Documentation/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
 
 <!-- DSA-GRINDHUB:START -->
